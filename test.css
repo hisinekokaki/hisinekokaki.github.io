@@ -1,0 +1,43 @@
+
+div.cap{
+    text-align: center;
+}
+
+
+#profile img {
+  max-width: 360px;
+  border: 5px solid #FF0000;
+  border-radius: 100%;
+}
+
+#profile2 img {
+  max-width: 250px;
+  border: 5px solid #9999FF;
+  border-radius: 100px 25px 50px 50px / 50px 25px 50px 25px;
+}
+p.cap2{
+    text-align: left;
+}
+
+
+header{
+ 
+    margin: 10px;
+    font-family: YuGothic, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", sans-serif;
+    background-color: #1E90FF;
+  font-size: 36px;
+}
+
+
+div.container {
+  color: green;
+}
+
+p:hover {color:#E48E00;
+
+}
+
+div.link a:hover {
+  color: red;text-decoration:underline;
+}
+
